@@ -2,13 +2,13 @@ langchain4j:
   open-ai:
     chat-model:
       base-url: https://api.deepseek.com
-      api-key: sk-bbab77db71004bc9a6e6c9c7a8c9883a
+      api-key: sk-**
       model-name: deepseek-flash
       log-requests: true
       log-responses: true
     streaming-chat-model:
       base-url: https://api.deepseek.com
-      api-key: sk-bbab77db71004bc9a6e6c9c7a8c9883a
+      api-key: sk-**
       model-name: deepseek-flash
       log-requests: true
       log-responses: true
